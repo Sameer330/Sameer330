@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Sameer</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&pause=500&color=DBF71B&center=true&vCenter=true&width=630&height=80&lines=Flutter+Developer+%F0%9F%A4%96+%F0%9F%8D%8E+%F0%9F%95%B8%EF%B8%8F+%F0%9F%AA%9F)
+
+<!-- (https://git.io/typing-svg) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer330&label=Profile%20views&color=0e75b6&style=flat" alt="sameer330" /> </p>
 
