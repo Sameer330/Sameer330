@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This small Flutter hack fixed a bad release](https://medium.com/@Sameer330/this-small-flutter-hack-fixed-a-bad-release-a90f2fefd7dc?source=rss-4dbb06e8f5fa------2)
 - [7 EASY STEPS to use Brave Browser to Run Flutter Web!](https://medium.com/@Sameer330/7-easy-steps-to-use-brave-browser-to-run-flutter-web-f56d76838085?source=rss-4dbb06e8f5fa------2)
 - [Flutter Web with GoRouter, GetIt, BLoC, WebView, Firebase and More!](https://medium.com/@Sameer330/flutter-web-with-gorouter-getit-bloc-webview-firebase-and-more-d754fc73700d?source=rss-4dbb06e8f5fa------2)
 - [50+ Git Commands to Remember &amp; Use in your next Project!](https://medium.com/@Sameer330/50-git-commands-to-remember-use-in-your-next-project-3775711fa464?source=rss-4dbb06e8f5fa------2)
 - [Why Google might not encourage the usage of Bard LLM](https://medium.com/@Sameer330/why-google-might-not-encourage-the-usage-of-bard-llm-8c6b28a0506a?source=rss-4dbb06e8f5fa------2)
-- [Why to use Architecture in Flutter?](https://medium.com/@Sameer330/why-to-use-architecture-in-flutter-797b29f7759?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
