@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Two-Sum Problem — My Perspective](https://medium.com/@Sameer330/two-sum-problem-my-perspective-5ad80dbd96e2?source=rss-4dbb06e8f5fa------2)
 - [The Elliptical Path](https://medium.com/@Sameer330/the-elliptical-path-a4126be32c70?source=rss-4dbb06e8f5fa------2)
 - [To Produce, You Need To Consume](https://medium.com/@Sameer330/to-produce-you-need-to-consume-36c2a80422a8?source=rss-4dbb06e8f5fa------2)
 - [Flutter Hyphen/Dash Test — Flexible &amp; Expanded. Responsive UI.](https://medium.com/@Sameer330/flutter-hyphen-dash-test-flexible-expanded-responsive-ui-26af381e3890?source=rss-4dbb06e8f5fa------2)
 - [This small Flutter hack fixed a bad release](https://medium.com/@Sameer330/this-small-flutter-hack-fixed-a-bad-release-a90f2fefd7dc?source=rss-4dbb06e8f5fa------2)
-- [7 EASY STEPS to use Brave Browser to Run Flutter Web!](https://medium.com/@Sameer330/7-easy-steps-to-use-brave-browser-to-run-flutter-web-f56d76838085?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
