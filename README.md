@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you convert a Roman Numeral to an Integer?](https://medium.com/@Sameer330/how-do-you-convert-a-roman-numeral-to-an-integer-3adcbcc0cc97?source=rss-4dbb06e8f5fa------2)
 - [Shortcoming in the Solution for Palindrome Problem](https://medium.com/@Sameer330/shortcoming-in-the-solution-for-palindrome-problem-c34118b95de7?source=rss-4dbb06e8f5fa------2)
 - [The Palindrome Problem](https://medium.com/@Sameer330/the-palindrome-problem-37a65b774b89?source=rss-4dbb06e8f5fa------2)
 - [Two-Sum Problem — My Perspective](https://medium.com/@Sameer330/two-sum-problem-my-perspective-5ad80dbd96e2?source=rss-4dbb06e8f5fa------2)
 - [The Elliptical Path](https://medium.com/@Sameer330/the-elliptical-path-a4126be32c70?source=rss-4dbb06e8f5fa------2)
-- [To Produce, You Need To Consume](https://medium.com/@Sameer330/to-produce-you-need-to-consume-36c2a80422a8?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
