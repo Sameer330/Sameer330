@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 88 — Merge Sorted Array](https://medium.com/@Sameer330/leetcode-88-merge-sorted-array-71c5928d85a8?source=rss-4dbb06e8f5fa------2)
 - [LeetCode 66 — Plus One](https://medium.com/@Sameer330/leetcode-66-plus-one-11bdefdd0546?source=rss-4dbb06e8f5fa------2)
 - [LeetCode 35 — Search Insert Position](https://medium.com/@Sameer330/leetcode-35-search-insert-position-0c11f6f1d64e?source=rss-4dbb06e8f5fa------2)
 - [LeetCode — Remove Element](https://medium.com/@Sameer330/leetcode-remove-element-787ae441d365?source=rss-4dbb06e8f5fa------2)
 - [Remove Duplicates from a Sorted Array — I](https://medium.com/@Sameer330/remove-duplicates-from-a-sorted-array-i-a9d23b0cf8b3?source=rss-4dbb06e8f5fa------2)
-- [How do you convert a Roman Numeral to an Integer?](https://medium.com/@Sameer330/how-do-you-convert-a-roman-numeral-to-an-integer-3adcbcc0cc97?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
