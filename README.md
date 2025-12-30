@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reverse an Array in Half the Time!](https://medium.com/@Sameer330/reverse-an-array-in-half-the-time-46275f152fcb?source=rss-4dbb06e8f5fa------2)
 - [LeetCode 88 — Merge Sorted Array](https://medium.com/@Sameer330/leetcode-88-merge-sorted-array-71c5928d85a8?source=rss-4dbb06e8f5fa------2)
 - [LeetCode 66 — Plus One](https://medium.com/@Sameer330/leetcode-66-plus-one-11bdefdd0546?source=rss-4dbb06e8f5fa------2)
 - [LeetCode 35 — Search Insert Position](https://medium.com/@Sameer330/leetcode-35-search-insert-position-0c11f6f1d64e?source=rss-4dbb06e8f5fa------2)
 - [LeetCode — Remove Element](https://medium.com/@Sameer330/leetcode-remove-element-787ae441d365?source=rss-4dbb06e8f5fa------2)
-- [Remove Duplicates from a Sorted Array — I](https://medium.com/@Sameer330/remove-duplicates-from-a-sorted-array-i-a9d23b0cf8b3?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
