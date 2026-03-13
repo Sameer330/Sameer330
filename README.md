@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dart Class Explained II — Interface](https://medium.com/@Sameer330/dart-class-explained-ii-interface-1bbe9ce0f2ec?source=rss-4dbb06e8f5fa------2)
 - [Dart Class Explained I — Abstract](https://medium.com/@Sameer330/dart-class-explained-i-abstract-9ba74b80fbf4?source=rss-4dbb06e8f5fa------2)
 - [Let’s Intersect Some Arrays](https://medium.com/@Sameer330/lets-intersect-some-arrays-5c42af28ac25?source=rss-4dbb06e8f5fa------2)
 - [Finding The Non-Duplicate Array Element](https://medium.com/@Sameer330/finding-the-non-duplicate-array-element-01856258fd30?source=rss-4dbb06e8f5fa------2)
 - [Reverse an Array in Half the Time!](https://medium.com/@Sameer330/reverse-an-array-in-half-the-time-46275f152fcb?source=rss-4dbb06e8f5fa------2)
-- [LeetCode 88 — Merge Sorted Array](https://medium.com/@Sameer330/leetcode-88-merge-sorted-array-71c5928d85a8?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
