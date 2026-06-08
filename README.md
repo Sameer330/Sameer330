@@ -9,11 +9,11 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Got Tired of Writing the Same Image Boilerplate in Every Flutter App. So I Built a Package.](https://medium.com/@Sameer330/i-got-tired-of-writing-the-same-image-boilerplate-in-every-flutter-app-so-i-built-a-package-93df49905c04?source=rss-4dbb06e8f5fa------2)
 - [Flutter | How to Debug Push Notifications in a Terminated State?](https://medium.com/@Sameer330/flutter-how-to-debug-push-notifications-in-a-terminated-state-287b74b8264a?source=rss-4dbb06e8f5fa------2)
 - [Dart Class Explained II — Interface](https://medium.com/@Sameer330/dart-class-explained-ii-interface-1bbe9ce0f2ec?source=rss-4dbb06e8f5fa------2)
 - [Dart Class Explained I — Abstract](https://medium.com/@Sameer330/dart-class-explained-i-abstract-9ba74b80fbf4?source=rss-4dbb06e8f5fa------2)
 - [Let’s Intersect Some Arrays](https://medium.com/@Sameer330/lets-intersect-some-arrays-5c42af28ac25?source=rss-4dbb06e8f5fa------2)
-- [Finding The Non-Duplicate Array Element](https://medium.com/@Sameer330/finding-the-non-duplicate-array-element-01856258fd30?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
