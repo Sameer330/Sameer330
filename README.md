@@ -66,13 +66,32 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer330&theme=tokyonight" alt="Sameer's GitHub Contributions" /><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer330&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer330&theme=tokyonight" alt="Top Languages" /><br/>
-  <img src="https://streak-stats.demolab.com?user=Sameer330&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### ⚡ System Pulse & Engineering Activity
+
+```python
+>>> from sameer import Engineer, SystemPulse
+
+>>> pulse = SystemPulse()
+>>> pulse.get_status()
+{
+    "identity": "Sameer Ankalagi | Software & GTM Infrastructure Engineer",
+    "domains": [
+        "Go-To-Market Engineering",
+        "Mobile Architecture (Flutter)",
+        "Spec-Driven AI & AI-DLC"
+    ],
+    "live_engines": {
+        "star-pipeline-gtm": "GitHub Star -> Enterprise Pipeline [Python / Pydantic / LLM]",
+        "hiring-pipeline-gtm": "Greenhouse ATS Signal & Hiring Intensity Pitch Engine"
+    },
+    "metrics": {
+        "all_time_contributions": "1,800+",
+        "public_repositories": 18,
+        "primary_languages": ["Python", "Dart", "SQL", "Swift"]
+    },
+    "current_status": "Building revenue-critical infra & open for high-leverage roles / advisory"
+}
+```
 
 ---
 
