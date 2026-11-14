@@ -28,6 +28,16 @@
 
 ---
 
+### 📐 Engineering Architecture & Focus
+
+| Domain | Focus & Implementation | Key Technologies |
+| :--- | :--- | :--- |
+| **GTM Infrastructure** | Autonomous signal engines that convert raw developer/company intent (GitHub events, ATS job feeds) into enriched, token-gated outbound pipelines. | `Python`, `Pydantic v2`, `Greenhouse API`, `REST`, `HubSpot` |
+| **Mobile Architecture** | Production mobile apps engineered with Clean Architecture, robust state isolation, and native platform channels. | `Flutter`, `Dart`, `Clean Architecture`, `Firebase`, `iOS/Android` |
+| **Spec-Driven AI (AI-DLC)** | Deterministic LLM orchestration, strict Pydantic output validation, and prompt contracts rather than probabilistic guesswork. | `OpenAI API`, `Anthropic`, `Structured Outputs`, `Prompt Ops` |
+
+---
+
 ### 💻 Tech Stack
 
 **GTM & Data Infrastructure:**  
@@ -66,18 +76,12 @@
 
 ---
 
-### 🐍 Contribution Activity & Streak
+### 📊 Engineering Impact & Velocity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer330/Sameer330/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer330/Sameer330/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sameer330/Sameer330/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sameer330&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/All--Time_Contributions-1,800+-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Production_Experience-2.5+_Years-0969da?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_%26_Spec--Driven-8250df?style=for-the-badge" alt="Architecture" />
 </p>
 
 ---
