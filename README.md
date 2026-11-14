@@ -68,8 +68,10 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer330&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Sameer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer330&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer330&theme=tokyonight" alt="Sameer's GitHub Contributions" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer330&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer330&theme=tokyonight" alt="Top Languages" /><br/>
+  <img src="https://streak-stats.demolab.com?user=Sameer330&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
