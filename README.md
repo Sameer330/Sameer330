@@ -66,32 +66,19 @@
 
 ---
 
-### ⚡ System Pulse & Engineering Activity
+### 🐍 Contribution Activity & Streak
 
-```python
->>> from sameer import Engineer, SystemPulse
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer330/Sameer330/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer330/Sameer330/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sameer330/Sameer330/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
->>> pulse = SystemPulse()
->>> pulse.get_status()
-{
-    "identity": "Sameer Ankalagi | Software & GTM Infrastructure Engineer",
-    "domains": [
-        "Go-To-Market Engineering",
-        "Mobile Architecture (Flutter)",
-        "Spec-Driven AI & AI-DLC"
-    ],
-    "live_engines": {
-        "star-pipeline-gtm": "GitHub Star -> Enterprise Pipeline [Python / Pydantic / LLM]",
-        "hiring-pipeline-gtm": "Greenhouse ATS Signal & Hiring Intensity Pitch Engine"
-    },
-    "metrics": {
-        "all_time_contributions": "1,800+",
-        "public_repositories": 18,
-        "primary_languages": ["Python", "Dart", "SQL", "Swift"]
-    },
-    "current_status": "Building revenue-critical infra & open for high-leverage roles / advisory"
-}
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sameer330&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
