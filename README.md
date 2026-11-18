@@ -75,12 +75,11 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Autonomous HubSpot CRM Sync & Deduplication Engine in Python](https://medium.com/@Sameer330/building-an-autonomous-hubspot-crm-sync-deduplication-engine-in-python-dd7c0d2c6732)
+- [Building an Autonomous HubSpot CRM Sync &amp; Deduplication Engine in Python](https://medium.com/@Sameer330/building-an-autonomous-hubspot-crm-sync-deduplication-engine-in-python-dd7c0d2c6732?source=rss-4dbb06e8f5fa------2)
 - [How I Built an Autonomous B2B “Speed-to-Lead” Inbound Engine in Python](https://medium.com/@Sameer330/how-i-built-an-autonomous-b2b-speed-to-lead-inbound-engine-in-python-c5268f1dfeeb?source=rss-4dbb06e8f5fa------2)
 - [How I Built an Automated B2B “Hiring Signal Intelligence” Engine in Python](https://medium.com/@Sameer330/how-i-built-an-automated-b2b-hiring-signal-intelligence-engine-in-python-0f9710231cf0?source=rss-4dbb06e8f5fa------2)
 - [How I Built an Open-Source “GitHub Star to Enterprise Pipeline” in Python](https://medium.com/@Sameer330/how-i-built-an-open-source-github-star-to-enterprise-pipeline-in-python-7fffabfdbcfb?source=rss-4dbb06e8f5fa------2)
 - [What is Go-To-Market &lpar;GTM&rpar; Engineering?](https://medium.com/@Sameer330/what-is-go-to-market-gtm-engineering-598ae2d7acc7?source=rss-4dbb06e8f5fa------2)
-- [I Got Tired of Writing the Same Image Boilerplate in Every Flutter App. So I Built a Package.](https://medium.com/@Sameer330/i-got-tired-of-writing-the-same-image-boilerplate-in-every-flutter-app-so-i-built-a-package-93df49905c04?source=rss-4dbb06e8f5fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
