@@ -26,6 +26,7 @@
 | **[⚡ Star-to-Pipeline](https://github.com/Sameer330/star-pipeline-gtm)** | PLG revenue engine that turns GitHub activity (stars, forks, PRs) into qualified sales pipeline. Features Git commit tree email uncovering and token-gated AI evaluation. | `Python`, `Pydantic v2`, `httpx`, `LLM Orchestration` |
 | **[⚡ Hiring-to-Pipeline](https://github.com/Sameer330/hiring-pipeline-gtm)** | Signal intelligence engine that scans enterprise Greenhouse ATS boards, calculates hiring intensity ratios, and synthesizes 1-to-1 sales pitch dossiers for engineering leaders. | `Python`, `Greenhouse API`, `Regex \b`, `Pydantic` |
 | **[⚡ Speed-to-Lead Engine](https://github.com/Sameer330/speed-to-lead-engine-gtm)** | Autonomous inbound revenue engine that intercepts demo webhooks, extracts real-time company metadata, classifies enterprise ICP tiers, and dispatches rich Slack Block Kit dossiers in seconds. | `FastAPI`, `Pydantic v2`, `httpx`, `Slack Block Kit`, `AI Triage` |
+| **[⚡ HubSpot CRM Sync Engine](https://github.com/Sameer330/hubspot-crm-sync-engine-gtm)** | Autonomous CRM deduplication and sync engine interfacing with HubSpot REST API v3. Enforces deterministic entity matching, lifecycle updates, deal routing, and bi-directional object associations. | `Python`, `HubSpot v3 REST`, `Pydantic v2`, `httpx` |
 
 ---
 
